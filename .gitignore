@@ -1,0 +1,16 @@
+*.terraform
+*.terraform.tfstate
+*.tfstate.backup
+*.terraform.tfvars
+*.tfplan
+.DS_Store
+config-map-aws-auth_*.yaml
+kubeconfig_*
+.env*
+.vscode/
+.idea*
+.vscode*
+zips/
+*pki_ops/
+*ovpn
+*key
