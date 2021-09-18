@@ -2,7 +2,6 @@
 
 This Repo will be used to run the Terraform modules against AWS. Jenkins is configured to deploy the resources on AWS using this repo.
 
-Jenkins Job: https://jenkins.kyckglobal.com/job/New-Infra-Build/job/kyckg-tf-infra-new/
 
 #### Requirements
 
